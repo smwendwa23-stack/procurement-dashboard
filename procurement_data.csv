@@ -1,0 +1,6 @@
+ContractID,Ministry,Amount,Supplier,Date
+1,Health,50000,ABC Ltd,2026-01-01
+2,Education,120000,XYZ Ltd,2026-01-05
+3,Transport,70000,LMN Ltd,2026-01-10
+4,Health,150000,DEF Ltd,2026-01-15
+5,Education,50000,ABC Ltd,2026-01-20
